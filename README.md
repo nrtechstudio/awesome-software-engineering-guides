@@ -3,6 +3,7 @@
 Welcome to the awesome guide and documentation repository for **Software Engineering & Architecture**.
 
 ## 📝 Articles & Guides
+- [When No-Code Apps Hit a Scaling Wall: Technical Limitations and Migration Strategies](articles/when-no-code-apps-hit-a-scaling-wall-technical-limitations-and-migration-strategies.md)
 - [No-Code MVP vs Custom Code MVP: Technical Architectural Trade-offs](articles/no-code-mvp-vs-custom-code-mvp-technical-architectural-trade-offs.md)
 - [Migrating from Bubble and Webflow to Custom Code: A Technical Guide](articles/migrating-from-bubble-and-webflow-to-custom-code-a-technical-guide.md)
 - [Hidden Technical Debt in No-Code Platforms: An Architectural Analysis](articles/hidden-technical-debt-in-no-code-platforms-an-architectural-analysis.md)
