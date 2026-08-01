@@ -3,6 +3,7 @@
 Welcome to the awesome guide and documentation repository for **Software Engineering & Architecture**.
 
 ## 📝 Articles & Guides
+- [Architectural Decision Matrix: When to Migrate a WordPress Site to a Headless Architecture](articles/architectural-decision-matrix-when-to-migrate-a-wordpress-site-to-a-headless-architecture.md)
 - [Custom WordPress Theme vs Page Builder for Enterprise Sites: A Technical Architecture Analysis](articles/custom-wordpress-theme-vs-page-builder-for-enterprise-sites-a-technical-architecture-analysis.md)
 - [Multi-Warehouse Inventory Sync Architecture for B2B E-commerce: A Systems Engineering Approach](articles/multi-warehouse-inventory-sync-architecture-for-b2b-e-commerce-a-systems-engineering-approach.md)
 - [Architecting WordPress for High-Scale Performance](articles/architecting-wordpress-for-high-scale-performance.md)
