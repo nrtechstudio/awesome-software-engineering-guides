@@ -3,6 +3,7 @@
 Welcome to the awesome guide and documentation repository for **Software Engineering & Architecture**.
 
 ## 📝 Articles & Guides
+- [Architecting WordPress for High-Scale Performance](articles/architecting-wordpress-for-high-scale-performance.md)
 - [Migrating from Shopify or WooCommerce to a Custom Platform: A Technical Decision Framework](articles/migrating-from-shopify-or-woocommerce-to-a-custom-platform-a-technical-decision-framework.md)
 - [When No-Code Apps Hit a Scaling Wall: Technical Limitations and Migration Strategies](articles/when-no-code-apps-hit-a-scaling-wall-technical-limitations-and-migration-strategies.md)
 - [No-Code MVP vs Custom Code MVP: Technical Architectural Trade-offs](articles/no-code-mvp-vs-custom-code-mvp-technical-architectural-trade-offs.md)
