@@ -3,6 +3,7 @@
 Welcome to the awesome guide and documentation repository for **Software Engineering & Architecture**.
 
 ## 📝 Articles & Guides
+- [Multi-Warehouse Inventory Sync Architecture for B2B E-commerce: A Systems Engineering Approach](articles/multi-warehouse-inventory-sync-architecture-for-b2b-e-commerce-a-systems-engineering-approach.md)
 - [Architecting WordPress for High-Scale Performance](articles/architecting-wordpress-for-high-scale-performance.md)
 - [Migrating from Shopify or WooCommerce to a Custom Platform: A Technical Decision Framework](articles/migrating-from-shopify-or-woocommerce-to-a-custom-platform-a-technical-decision-framework.md)
 - [When No-Code Apps Hit a Scaling Wall: Technical Limitations and Migration Strategies](articles/when-no-code-apps-hit-a-scaling-wall-technical-limitations-and-migration-strategies.md)
